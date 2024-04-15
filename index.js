@@ -1,7 +1,7 @@
 async function fetchData() {
   try {
 
-    const response = await fetch('package.json');
+    const response = await fetch('db.json');
 
     if (response.ok) {
       const data = await response.json();

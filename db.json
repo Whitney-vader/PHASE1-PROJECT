@@ -1,28 +1,32 @@
-{
-
-    "posts": [{
-            "id": "1",
-            "title": "a title",
-            "views": 100
-        },
-        {
-            "id": "2",
-            "title": "another title",
-            "views": 200
-        }
-    ],
-    "comments": [{
-            "id": "1",
-            "text": "a comment about post 1",
-            "postId": "1"
-        },
-        {
-            "id": "2",
-            "text": "another comment about post 1",
-            "postId": "1"
-        }
-    ],
-    "profile": {
-        "name": "typicod"
+[
+    {
+      "image": "Bracelets.jpg",
+      "title": "Tribal bracelets",
+      "stars": 4.5,
+      "price": 200
+    },
+    {
+      "image": "Luo traditional stool.jpg",
+      "title": "Traditional Luo Stools",
+      "stars": 4.5,
+      "price": 2500
+    },
+    {
+      "image": "Earrings.jpg",
+      "title": "Tribal earrings",
+      "stars": 5,
+      "price": 500
+    },
+    {
+      "image": "Coasters.jpg",
+      "title": "Tribal coasters (medium-size)",
+      "stars": 4.5,
+      "price": 500
+    },
+    {
+      "image": "Maasai shoes.jpg",
+      "title": "Maasai sandals(size 4-10)",
+      "stars": 4.5,
+      "price": 1000
     }
-}
+  ]

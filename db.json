@@ -3,30 +3,30 @@
       "image": "Bracelets.jpg",
       "title": "Hand crafted mugs ",
       "stars": 5,
-      "price": 200
+      "price": 600
     },
     {
       "image": "Luo traditional stool.jpg",
-      "title": "Handbag",
+      "title": "Ladies handbags",
       "stars": 5,
-      "price": 2500
+      "price": 3000
     },
     {
       "image": "Earrings.jpg",
       "title": "cooking jiko",
       "stars": 3,
-      "price": 500
+      "price": 3000
     },
     {
       "image": "Coasters.jpg",
       "title": "Handmade gowns (medium-size)",
       "stars": 4.5,
-      "price": 500
+      "price": 4000
     },
     {
       "image": "Maasai shoes.jpg",
       "title": "Maasai neckpiece",
       "stars": 4,
-      "price": 1000
+      "price": 550
     }
   ]

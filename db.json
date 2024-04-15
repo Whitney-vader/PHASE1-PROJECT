@@ -1,32 +1,32 @@
 [
     {
       "image": "Bracelets.jpg",
-      "title": "Tribal bracelets",
-      "stars": 4.5,
+      "title": "Hand crafted mugs ",
+      "stars": 5,
       "price": 200
     },
     {
       "image": "Luo traditional stool.jpg",
-      "title": "Traditional Luo Stools",
-      "stars": 4.5,
+      "title": "Handbag",
+      "stars": 5,
       "price": 2500
     },
     {
       "image": "Earrings.jpg",
-      "title": "Tribal earrings",
-      "stars": 5,
+      "title": "cooking jiko",
+      "stars": 3,
       "price": 500
     },
     {
       "image": "Coasters.jpg",
-      "title": "Tribal coasters (medium-size)",
+      "title": "Handmade gowns (medium-size)",
       "stars": 4.5,
       "price": 500
     },
     {
       "image": "Maasai shoes.jpg",
-      "title": "Maasai sandals(size 4-10)",
-      "stars": 4.5,
+      "title": "Maasai neckpiece",
+      "stars": 4,
       "price": 1000
     }
   ]
